@@ -1,4 +1,4 @@
-# programa_desenvolve
+# Programa Desenvolve 2022
 
 O programa Desenvolve, realizado pelo Grupo Boticário, em parceria com o Instituto gb.tech, busca reinventar o futuro das pessoas por meio da tecnologia, diminuindo a lacuna existente de gênero e raça no Brasil.
 
@@ -9,5 +9,6 @@ O programa possui três modalidades de estudos: Dados, Full Stack e DevOps. No t
 A minha linha de estudos é na área de **Dados** e por meio desse repositório vou mostrar meus conhecimentos, adquiridos ao longo do curso, através de implementações.
 
 <div align="center">
-  <img src="" width=1000px/>
+  <img src="https://user-images.githubusercontent.com/94764799/152929892-b6adc145-74c5-4223-bd6d-a7a48994f754.png" width=1000px/>
 </div>
+___
