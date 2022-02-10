@@ -8,7 +8,7 @@ O programa Desenvolve, realizado pelo Grupo Boticário, em parceria com o Instit
 
 ---
 
-O programa possui três modalidades de estudos: Dados, Full Stack e DevOps. No total, foram ofertadas 1000 vagas e o curso tem duração de, aproximadamente, 10 meses tratando os diferentes assuntos de cada área.
+O programa possui três modalidades de estudos: *Dados, Full Stack e DevOps*. No total, foram ofertadas 1000 vagas e o curso tem duração de, aproximadamente, 10 meses tratando os diferentes assuntos de cada área.
 
 A minha linha de estudos é na área de **Dados** e por meio desse repositório vou mostrar meus conhecimentos, adquiridos ao longo do curso, através de implementações.
 
