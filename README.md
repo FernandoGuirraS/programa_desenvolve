@@ -3,7 +3,9 @@
 O programa Desenvolve, realizado pelo Grupo Boticário, em parceria com o Instituto gb.tech, busca reinventar o futuro das pessoas por meio da tecnologia, diminuindo a lacuna existente de gênero e raça no Brasil.
 
 ## Manifesto do programa
+
 "Nós acreditamos que a tecnologia é impulsionadora do desenvolvimento. Acreditamos que a inovação é a única saída em um mundo cuja constante é a mudança. Acreditamos que o futuro depende da inclusão. De todos. De todas. Por isso, manifestamos o nosso compromisso com a redução da lacuna de gênero e de raça na área de tecnologia no Brasil, formando pessoas em situação de vulnerabilidade para a entrada em um mercado o qual a oferta de vagas é muito superior ao número de aplicantes. Por isso, lançamos o Desenvolve."
+
 ---
 
 O programa possui três modalidades de estudos: Dados, Full Stack e DevOps. No total, foram ofertadas 1000 vagas e o curso tem duração de, aproximadamente, 10 meses tratando os diferentes assuntos de cada área.
